@@ -71,7 +71,8 @@ If you don’t need the graph, you can remove it from the layout [as explained h
 - Add SEO plugins
 - Add collections
 - Add search bar
-- Change theme
+- Add authors
+- Add comments
 
 See the [open issues](https://github.com/yourusername/obsidian-jekyll/issues) for a full list of proposed features (and known issues).
 
