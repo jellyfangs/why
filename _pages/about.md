@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-This is made with Jekyll, hosted on Github, and created with Obsidian and Visual Studio.
+This is made with Jekyll, hosted on Github, and created in Obsidian and Visual Studio.

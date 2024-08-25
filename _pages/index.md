@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 10px;">
   I’m Jerry, a new father, a product manager, web developer, mobile app developer, and AI researcher in Silicon Valley with a background in small business founder and military experience serving as a marine combat engineer.
 </p>
 
